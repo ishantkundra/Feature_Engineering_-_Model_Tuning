@@ -1,4 +1,4 @@
- 🧪 FMT Project – Semiconductor Yield Classification with Feature Engineering & Model Tuning
+# 🧪 FMT Project – Semiconductor Yield Classification with Feature Engineering & Model Tuning
 
 ## 📌 Project Overview
 
